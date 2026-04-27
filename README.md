@@ -57,7 +57,7 @@ php artisan make:crud products
 
 ### Registro de Usuario
 
-> _Inserta aquí una captura de pantalla del formulario de registro de usuario._
+![Registro de Usuario](https://raw.githubusercontent.com/Johanns25/Laboratorio-3-Johanns-Garces/main/Prueba%201.png)
 
 ```
 
@@ -67,7 +67,7 @@ php artisan make:crud products
 
 ### Sección de Products
 
-> _Inserta aquí una captura de pantalla del listado de productos (ruta `/products`)._
+![Products](https://raw.githubusercontent.com/Johanns25/Laboratorio-3-Johanns-Garces/main/prueba%202.png)
 
 ```
 [ Captura #2 — Vista Index de Products ]
@@ -77,7 +77,7 @@ php artisan make:crud products
 
 ### Agregando un Producto
 
-> _Inserta aquí una captura de pantalla del formulario para agregar un nuevo producto._
+![Agregando un Producto](https://raw.githubusercontent.com/Johanns25/Laboratorio-3-Johanns-Garces/main/prueba%203.png)
 
 ```
 [ Captura #3 — Formulario Create Product ]
